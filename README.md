@@ -2,6 +2,7 @@
 
 Some learning is required... haha
 
-Now, that ok, no more conflicts.
+  Some git and GitHub
+  Some HTML
 
-This must be present.
+What else?
