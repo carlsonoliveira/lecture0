@@ -1,0 +1,47 @@
+h1 {
+    color: blue;
+    text-align: center;
+}
+p {
+    color: #5a6591;
+}
+.special {
+  color: red;
+  font-size: 32px;
+  font-weight: bold;
+}
+table {
+    color: #0d6d30;
+    font-family: Arial, sans-sans-serif;
+    font-size: 16px;
+    border: 3px solid #3c8943;
+    border-collapse: collapse;
+    width: 90%
+}
+th, td {
+  border: 1px solid #3c8943;
+  text-align: left;
+  padding: 5px;
+}
+th {
+  background-color: #74917e;
+}
+button {
+  color: darkmagenta;
+}
+div {
+  background-color: #e0a762;
+  width: 90%;
+  height: 280px;
+  margin: 30px;
+  padding: 10px;
+}
+#top {
+  background-color: #e0a742;
+}
+#middle {
+  background-color: #e0a762;
+}
+#bottom {
+  background-color: #e0a782;
+}
