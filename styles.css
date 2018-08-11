@@ -32,7 +32,7 @@ button {
 div {
   background-color: #e0a762;
   width: 90%;
-  height: 330px;
+  height: 390px;
   margin: 30px;
   padding: 10px;
 }
@@ -44,4 +44,9 @@ div {
 }
 #bottom {
   background-color: #e0a782;
+  height: 300px;
+}
+
+input [type=list] {
+  background-color: #74917e;
 }

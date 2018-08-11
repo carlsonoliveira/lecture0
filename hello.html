@@ -50,11 +50,17 @@
           <td>1902-1906</td>
         </tr>
       </table>
+      <p>More information <a href="https://pt.wikipedia.org/wiki/Lista_de_presidentes_do_Brasil">here</a></p>
     </div>
     <div id="bottom">
       <form>
-        <input type="text" placeholder="Name" name="pname">
-        <button>Ok</button>
+        <input list="presidentes" placeholder="Selecione seu presidente favorito" name="pname">
+        <datalist id="presidentes">
+          <option value="Deodoro da Fonseca">
+          <option value="Floriano Peixoto">
+          <option value="Prudente de Moraes">
+          <option value="Campos Sales">
+          <option value="Rodrigues Alves">
       </form>
     </div>
   </body>
